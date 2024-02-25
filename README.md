@@ -1,5 +1,5 @@
 #**Face Recognition Attendance System**
-This project is a simple face recognition attendance system implemented in Python using OpenCV and face_recognition library. It recognizes faces from a pre-recorded video file and marks attendance in a text file.
+- This project is a simple face recognition attendance system implemented in Python using OpenCV and face_recognition library. It recognizes faces from a pre-recorded video file and marks attendance in a text file.
 
 #**Features**
 - Face detection and recognition from a pre-recorded video file
@@ -25,5 +25,5 @@ This project is a simple face recognition attendance system implemented in Pytho
 - Adjust the parameters in the script as needed for your specific use case.
 
 #**Contributing**
-Contributions are welcome! Please feel free to open a pull request or submit an issue if you encounter any problems or have suggestions for improvements.
+- Contributions are welcome! Please feel free to open a pull request or submit an issue if you encounter any problems or have suggestions for improvements.
 
